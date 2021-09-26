@@ -48,6 +48,7 @@ li {
 .content {
     width: 500px;
     margin: 0 auto;
+    background-color: aliceblue;
 }
 
 h1 {
